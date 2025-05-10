@@ -9,7 +9,7 @@ A simple 2D arcade-style game built with **C++** and **SFML**, where you control
 - Game continues infinitely as blocks spawn over time
 - Purely skill-based dodging game with increasing difficulty
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 - **C++**
 - **SFML (Simple and Fast Multimedia Library)**
