@@ -13,12 +13,6 @@ A simple 2D arcade-style game built with **C++** and **SFML**, where you control
 
 - **C++**
 - **SFML (Simple and Fast Multimedia Library)**
-- **Visual Studio (.sln solution)**
-
-## 📷 Screenshot
-
-> *(Add a screenshot here if you like, to show gameplay)*  
-> Example: `![Gameplay Screenshot](images/screenshot.png)`
 
 ## 🚀 How to Build & Run
 
